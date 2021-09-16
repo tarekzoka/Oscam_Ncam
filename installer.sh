@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL Oscam_Ncam
 # ###########################################
 #
-# Command: wget https://raw.githubusercontent.com/tarekzoka/Oscam_Ncam/main/installer.sh -q; sh installer.sh
+# Command: wget https://raw.githubusercontent.com/tarekzoka/Oscam_Ncam/main/-q; sh installer.sh
 #
 # ###########################################
 
